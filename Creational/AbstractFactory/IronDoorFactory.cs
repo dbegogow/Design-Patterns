@@ -3,12 +3,8 @@
 internal class IronDoorFactory : IDoorFactory
 {
     public IDoor MakeDoor()
-    {
-        return new IronDoor();
-    }
+        => new IronDoor();
 
     public IDoorFittingExpert MakeFittingExpert()
-    {
-        return new Welder();
-    }
+        => new Welder();
 }
