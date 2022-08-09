@@ -4,3 +4,4 @@ Resources I learned from - https://github.com/anupavanm/csharp-design-patterns-f
 
 - Creational
   * Simple Factory
+  * Factory Method
