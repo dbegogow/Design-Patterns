@@ -6,3 +6,4 @@ Resources I learned from - https://github.com/anupavanm/csharp-design-patterns-f
   * Simple Factory
   * Factory Method
   * Abstract Factory
+  * Builder
