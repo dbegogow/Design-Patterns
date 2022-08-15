@@ -2,7 +2,7 @@
 Design patterns implemented in C# language \
 Resources I learned from - https://github.com/anupavanm/csharp-design-patterns-for-humans
 
-- Creational
+- ___Creational___
   * __Simple Factory__ - simply generates an instance for client without exposing any instantiation logic to the client
   * __Factory Method__ - it provides a way to delegate the instantiation logic to child classes
   * __Abstract Factory__ - a factory of factories; a factory that groups the individual but related factories together without specifying their concrete classes
