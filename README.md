@@ -10,4 +10,4 @@ Resources I learned from - https://github.com/anupavanm/csharp-design-patterns-f
   * __Prototype__ - create object based on an existing object through cloning
   * __Singleton__ - ensures that only one object of a particular class is ever created
 - ___Structural___
- * __Adapter__ - Adapter pattern lets you wrap an otherwise incompatible object in an adapter to make it compatible with another class
+  * __Adapter__ - Adapter pattern lets you wrap an otherwise incompatible object in an adapter to make it compatible with another class
