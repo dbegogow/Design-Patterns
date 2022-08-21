@@ -9,3 +9,5 @@ Resources I learned from - https://github.com/anupavanm/csharp-design-patterns-f
   * __Builder__ - allows you to create different flavors of an object while avoiding constructor pollution. Useful when there could be several flavors of an object. Or when there are a lot of steps involved in creation of an object
   * __Prototype__ - create object based on an existing object through cloning
   * __Singleton__ - ensures that only one object of a particular class is ever created
+- ___Structural___
+  * __Adapter__ - Adapter pattern lets you wrap an otherwise incompatible object in an adapter to make it compatible with another class
