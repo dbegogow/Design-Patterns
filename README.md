@@ -2,10 +2,6 @@
 Design patterns implemented in C# language \
 Resources I learned from - https://github.com/anupavanm/csharp-design-patterns-for-humans
 
-- __Creational__ - Creational patterns are focused towards how to instantiate an object or group of related objects
-- __Structural__ - Structural patterns are mostly concerned with object composition or in other words how the entities can use each other. Or yet another explanation would be, they help in answering "How to build a software component?"
-- __Behavioral__ - It is concerned with assignment of responsibilities between the objects. What makes them different from structural patterns is they don't just specify the structure but also outline the patterns for message passing/communication between them. Or in other words, they assist in answering "How to run a behavior in software component?"
-
 - ___Creational___ - Creational patterns are focused towards how to instantiate an object or group of related objects
   * __Simple Factory__ - simply generates an instance for client without exposing any instantiation logic to the client
   * __Factory Method__ - it provides a way to delegate the instantiation logic to child classes
