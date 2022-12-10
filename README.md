@@ -14,3 +14,6 @@ Resources I learned from - https://github.com/anupavanm/csharp-design-patterns-f
   * __Bridge__ - Bridge pattern is about preferring composition over inheritance. Implementation details are pushed from a hierarchy to another object with a separate hierarchy
   * __Composite__ - Composite pattern lets clients treat the individual objects in a uniform manner
   * __Decorator__ - Decorator pattern lets you dynamically change the behavior of an object at run time by wrapping them in an object of a decorator class
+  * __Facade__ - Facade pattern provides a simplified interface to a complex subsystem
+  * __Flyweight__ - It is used to minimize memory usage or computational expenses by sharing as much as possible with similar objects
+  * __Proxy__ - Using the proxy pattern, a class represents the functionality of another class
